@@ -3,16 +3,16 @@ A modern Minesweeper game built with HTML, CSS, and JavaScript.
 It includes animations, sound effects, three difficulty levels, and responsive design.
 
 ---
-# ✨ Features
-# - 🟢 Three levels: Easy (9x9, 10 mines), Medium (16x16, 40 mines), Hard (16x30, 99 mines)
-# - ⏱️ Timer (up to 999 seconds)
-# - 💣 Mine counter with live updates
-# - 🎵 Sound effects for clicks, flags, explosions, and winning
-# - 🎉 Victory & Game Over banners with animations
-# - 📱 Responsive design for desktop and mobile
-# - ⌨️ Keyboard support:
-#     - Enter / Space → Reveal cell
-#     - F → Toggle flag
+✨ Features
+🟢 Three levels: Easy (9x9, 10 mines), Medium (16x16, 40 mines), Hard (16x30, 99 mines)
+⏱️ Timer (up to 999 seconds)
+💣 Mine counter with live updates
+🎵 Sound effects for clicks, flags, explosions, and winning
+🎉 Victory & Game Over banners with animations
+📱 Responsive design for desktop and mobile
+⌨️ Keyboard support:
+Enter / Space → Reveal cell
+- F → Toggle flag
 
 # ──────────────────────────────────────────────────────────────────────────────
 # 🚀 Getting Started
