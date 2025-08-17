@@ -44,7 +44,9 @@ This version follows the **classic Minesweeper rules**:
 
 ## 📂 Project Structure
 ├── index.html # Main game layout
+
 ├── style.css # Styling & animations
+
 └── script.js # Game logic & audio effects
 
 
