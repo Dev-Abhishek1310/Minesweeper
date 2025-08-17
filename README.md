@@ -2,7 +2,7 @@
 A modern Minesweeper game built with HTML, CSS, and JavaScript.
 It includes animations, sound effects, three difficulty levels, and responsive design.
 
-# ──────────────────────────────────────────────────────────────────────────────
+---
 # ✨ Features
 # - 🟢 Three levels: Easy (9x9, 10 mines), Medium (16x16, 40 mines), Hard (16x30, 99 mines)
 # - ⏱️ Timer (up to 999 seconds)
