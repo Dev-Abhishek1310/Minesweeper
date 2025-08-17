@@ -43,3 +43,28 @@ This version follows the **classic Minesweeper rules**:
 ---
 
 ## 📂 Project Structure
+├── index.html # Main game layout
+├── style.css # Styling & animations
+└── script.js # Game logic & audio effects
+
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** for structure  
+- **CSS3** for styling, layout & animations  
+- **JavaScript (Vanilla)** for game logic and audio  
+
+---
+
+## 🎮 Controls
+- **Left Click / Tap** → Reveal cell  
+- **Right Click / Long Press** → Place/remove flag  
+- **Keyboard Shortcuts** → Play without mouse  
+
+---
+
+## 🌟 Future Roadmap
+- 🔄 Save/resume game sessions  
+- 🏆 High scores & leaderboards  
+- 🎨 Theme customization  
