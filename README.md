@@ -1,4 +1,4 @@
-# 💣 Minesweeper — E • M • H
+# 💣 Minesweeper
 
 Welcome to **Minesweeper** – a modern, web-based version of the classic puzzle game.  
 Clear the board, avoid the hidden mines, and challenge yourself across **three difficulty levels**.  
