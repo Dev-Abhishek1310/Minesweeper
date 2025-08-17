@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Minesweeper — E • M • H</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="banner" class="banner"></div>
+  <div class="app">
+    <div class="header">
+      <div>
+        <div class="title">Minesweeper</div>
+        <!-- <div class="sub">3 levels • timer • animations • audio</div> -->
+      </div>
+
+      <div class="panel controls" role="group" aria-label="Game controls">
+        <label for="level">Level</label>
+        <select id="level" class="primary" title="Difficulty">
+          <option value="E">Easy</option>
+          <option value="M">Medium</option>
+          <option value="H">Hard</option>
+        </select>
+        <button id="newGame" class="primary">New Game</button>
+      </div>
+
+      <div class="panel stats">
+        <div class="stat" title="Mines remaining">
+          <span>💣</span>
+          <span id="minesLeft">0</span>
+        </div>
+        <div class="stat" title="Timer (max 999)">
+          <span>⏱️</span>
+          <span id="timer">000</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="board-wrap">
+      <div id="board" class="board" role="grid" aria-label="Minesweeper board"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
