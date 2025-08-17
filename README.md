@@ -1,54 +1,58 @@
-# 🎮 Minesweeper 
-A modern Minesweeper game built with HTML, CSS, and JavaScript.
-It includes animations, sound effects, three difficulty levels, and responsive design.
-
----
-✨ Features
-🟢 Three levels: Easy (9x9, 10 mines), Medium (16x16, 40 mines), Hard (16x30, 99 mines)
-⏱️ Timer (up to 999 seconds)
-💣 Mine counter with live updates
-🎵 Sound effects for clicks, flags, explosions, and winning
-🎉 Victory & Game Over banners with animations
-📱 Responsive design for desktop and mobile
-⌨️ Keyboard support:
-Enter / Space → Reveal cell
-- F → Toggle flag
+# 💣 MINESWEEPER — E • M • H
+# WELCOME TO MINESWEEPER – A MODERN, WEB-BASED VERSION OF THE CLASSIC PUZZLE GAME.
+# CLEAR THE BOARD, AVOID THE HIDDEN MINES, AND CHALLENGE YOURSELF ACROSS THREE DIFFICULTY LEVELS.
+# BUILT WITH HTML, CSS, AND JAVASCRIPT — RESPONSIVE DESIGN, SMOOTH ANIMATIONS, AND SOUND EFFECTS.
 
 # ──────────────────────────────────────────────────────────────────────────────
-# 🚀 Getting Started
-
-# 1) Clone the repo:
-git clone https://github.com/your-username/minesweeper.git
-cd minesweeper
-
-# 2) Open in browser (no build step required):
-#    Open the file `index.html` in your browser.
+# 🚀 LIVE DEMO
+# PLAY HERE:
+# 👉 https://dev-abhishek1310.github.io/Minesweeper/
 
 # ──────────────────────────────────────────────────────────────────────────────
-# 📂 Project Structure
-# minesweeper/
-# ├── index.html    # Main game layout
-# ├── style.css     # Styling & animations
-# └── script.js     # Game logic & audio effects
+# 🎮 GAME MODES
+# - 🟢 EASY – 9X9 BOARD WITH 10 MINES
+# - 🟡 MEDIUM – 16X16 BOARD WITH 40 MINES
+# - 🔴 HARD – 16X30 BOARD WITH 99 MINES
 
 # ──────────────────────────────────────────────────────────────────────────────
-# 🛠️ Technologies Used
-# - HTML5 for structure
-# - CSS3 for styling, layout & animations
-# - JavaScript (Vanilla) for game logic and audio
+# ⏱️ GAME RULES
+# - 👆 CLICK A CELL TO REVEAL IT
+# - 🚩 RIGHT-CLICK (OR LONG PRESS) TO PLACE/REMOVE A FLAG
+# - 🔄 THE FIRST CLICK IS ALWAYS SAFE (NO MINES NEARBY)
+# - ✅ WIN BY REVEALING ALL SAFE CELLS
+# - 💥 LOSE IF YOU CLICK ON A MINE
 
 # ──────────────────────────────────────────────────────────────────────────────
-# 🎮 Controls
-# - Left Click / Tap → Reveal cell
-# - Right Click / Long Press → Place/remove flag
-# - Keyboard Shortcuts → Play without mouse
+# ✨ FEATURES
+# - 🕹️ 3 DIFFICULTY LEVELS (EASY, MEDIUM, HARD)
+# - ⏱️ TIMER UP TO 999 SECONDS
+# - 💣 MINE COUNTER WITH LIVE UPDATES
+# - 🎵 SOUND EFFECTS FOR CLICKS, FLAGS, EXPLOSIONS, AND WINNING
+# - 🎉 VICTORY & GAME OVER BANNERS WITH ANIMATIONS
+# - 📱 RESPONSIVE DESIGN FOR DESKTOP & MOBILE
+# - ⌨️ KEYBOARD SUPPORT (ENTER / SPACE TO REVEAL, F TO FLAG)
 
 # ──────────────────────────────────────────────────────────────────────────────
-# 🌐 Live Demo
-# Play the game here: https://dev-abhishek1310.github.io/Minesweeper/
+# 📂 PROJECT STRUCTURE
+# MINESWEEPER/
+# ├── INDEX.HTML    # MAIN GAME LAYOUT
+# ├── STYLE.CSS     # STYLING & ANIMATIONS
+# └── SCRIPT.JS     # GAME LOGIC & AUDIO EFFECTS
 
 # ──────────────────────────────────────────────────────────────────────────────
-# 💡 Future Enhancements
-# - 🔄 Save/resume game
-# - 🏆 High scores & leaderboard
-# - 🎨 Theme customization
+# 🛠️ TECHNOLOGIES USED
+# - HTML5 FOR STRUCTURE
+# - CSS3 FOR STYLING, LAYOUT & ANIMATIONS
+# - JAVASCRIPT (VANILLA) FOR GAME LOGIC AND AUDIO
+
+# ──────────────────────────────────────────────────────────────────────────────
+# 🎮 CONTROLS
+# - LEFT CLICK / TAP → REVEAL CELL
+# - RIGHT CLICK / LONG PRESS → PLACE/REMOVE FLAG
+# - KEYBOARD SHORTCUTS → PLAY WITHOUT MOUSE
+
+# ──────────────────────────────────────────────────────────────────────────────
+# 🌟 FUTURE ROADMAP
+# - 🔄 SAVE/RESUME GAME SESSIONS
+# - 🏆 HIGH SCORES & LEADERBOARDS
+# - 🎨 THEME CUSTOMIZATION
