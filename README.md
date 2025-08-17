@@ -1,8 +1,10 @@
 # 🎮 Minesweeper — E • M • H
-# Live Demo: https://dev-abhishek1310.github.io/Minesweeper/
+# Live Demo: 
+https://dev-abhishek1310.github.io/Minesweeper/
 
-# A modern Minesweeper game built with HTML, CSS, and JavaScript.
-# It includes animations, sound effects, three difficulty levels, and responsive design.
+ A modern Minesweeper game built with HTML, CSS, and JavaScript.
+ 
+ It includes animations, sound effects, three difficulty levels, and responsive design.
 
 # ──────────────────────────────────────────────────────────────────────────────
 # ✨ Features
